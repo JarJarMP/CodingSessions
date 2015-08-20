@@ -44,8 +44,8 @@ $ docker exec -it [container-id or container-name] /bin/bash
 ### Phase1 - set up a container with nodejs
 
 * Google always has great stuff for the developers, this time I will use [their repository](https://hub.docker.com/r/google/nodejs/)
-* Create a [DockerFile]().
-* build the image from the DockerFile and name it properly
+* Create a [DockerFile](https://github.com/JarJarMP/CodingSessions/blob/master/2015.08.18/DockerFile).
+* build the image from the [DockerFile](https://github.com/JarJarMP/CodingSessions/blob/master/2015.08.18/DockerFile) and name it properly
 ```bash
 $ docker build -t codingsessions/nodejs:20150818 .
 ```
