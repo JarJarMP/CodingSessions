@@ -1,0 +1,5 @@
+# Base
+FROM google/nodejs
+
+# Author
+MAINTAINER Peter Maroti
