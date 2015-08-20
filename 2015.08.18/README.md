@@ -44,7 +44,7 @@ $ docker exec -it [container-id or container-name] /bin/bash
 ### Phase1 - set up a container with nodejs
 
 * Google always has great stuff for the developers, this time I will use [their repository](https://hub.docker.com/r/google/nodejs/)
-* Create a [DockerFile](https://github.com/JarJarMP/CodingSessions/blob/master/2015.08.18/DockerFile).
+* create a [DockerFile](https://github.com/JarJarMP/CodingSessions/blob/master/2015.08.18/DockerFile).
 * build the image from the [DockerFile](https://github.com/JarJarMP/CodingSessions/blob/master/2015.08.18/DockerFile) and name it properly
 ```bash
 $ docker build -t codingsessions/nodejs:20150818 .
@@ -59,7 +59,7 @@ $ node
 ```
 * I have the nodejs interactive javascript console, task finished
 ### Phase1 - sidenote
-* Create a container which does 'nothing', but you can start/stop it - add a name to container during run command
+* create a container which does 'nothing', but you can start/stop it - add a name to container during run command
 ```bash
 $ docker run -i -t -d --name=mynodejs codingsessions/nodejs:20150818 /bin/bash
 $ docker stop mynodejs
