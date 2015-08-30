@@ -5,3 +5,4 @@ Working together with [Viktor](https://github.com/ViktorLi1990), documenting all
 
 Days
 * 2015.08.18 - [docker](https://github.com/JarJarMP/CodingSessions/tree/master/2015.08.18)
+* 2015.08.27 - [yeoman](https://github.com/JarJarMP/CodingSessions/tree/master/2015.08.27)

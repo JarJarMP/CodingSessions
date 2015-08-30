@@ -1,3 +1,6 @@
+## Today's goal
+Create a Docker container wich contains nodejs
+
 ## What is Docker?
 Docker is an open platform for building, shipping and running distributed applications. It gives programmers, development teams and operations engineers the common toolbox they need to take advantage of the distributed and networked nature of modern applications. [Read more about Docker](https://www.docker.com/)
 
