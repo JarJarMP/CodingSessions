@@ -6,3 +6,4 @@ Working together with [Viktor](https://github.com/ViktorLi1990), documenting all
 Days
 * 2015.08.18 - [docker](https://github.com/JarJarMP/CodingSessions/tree/master/2015.08.18)
 * 2015.08.27 - [yeoman](https://github.com/JarJarMP/CodingSessions/tree/master/2015.08.27)
+* 2015.09.03 - [docker+yeoman again](https://github.com/JarJarMP/CodingSessions/tree/master/2015.09.03)
